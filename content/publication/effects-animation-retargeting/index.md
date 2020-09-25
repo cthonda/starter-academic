@@ -1,6 +1,6 @@
 ---
 abstract: 
-authors:
+authors: 
 - Author 1
 - Author 2
 date: "2020-04-29T00:00:00-04:00"
